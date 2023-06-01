@@ -7,24 +7,18 @@ bindings.
 
 ## 📔 Jupyter Content
 
-### 1.  Manipulating Maps Data 
-
-TODO: Summarize content
+### 1.  Manipulating Maps Data
 
 Learning Resources: 
 * [Mapping and Data Visualization Mini Course](https://courses.spatialthoughts.com/python-dataviz.html)
 
 ### 2. Working with pyGDAL
 
-TODO: Summarize content
-
 Learning Resources:
 * [Mastering GDAL Tools Mini Course](https://courses.spatialthoughts.com/gdal-tools.html)
 * [Visualizing Forests from Raster Data with pyGDAL](https://notebook.community/Automating-GIS-processes/Lesson-7-Automating-Raster-Data-Processing/Python-and-Gdal)
 
-### 3. Developing QGIS Plugins 
-
-TODO: Summarize content
+### 3. Developing QGIS Plugins
 
 * [Customizing QGIS with Python Mini Course](https://courses.spatialthoughts.com/pyqgis-in-a-day.html)
 
@@ -34,20 +28,22 @@ TODO: Summarize content
 
 [U.S. National Parks Visitor Data Timelapse]()
 
-[Analysis of Music Festival Space using Foot Traffic Data]()
+[Analysis of Music Festival Layout using Foot Traffic Data]()
 
-[NAME - Log Your Hiked Trails In U.S. National Parks]()
+[Identifying Navigable Terrain in Satellite Maps]()
 
-[Identifying Navigable Terrain in Satelite Maps]()
+[Log Your Hiked Trails In U.S. National Parks]()
 
 ---
 
 ## 💡 Other Resources
 
+Content:
+
 * [Spacial Thoughts OpenCourseWare](https://courses.spatialthoughts.com/index.html)
 * [pyGDAL Cookbook](https://pcjericks.github.io/py-gdalogr-cookbook/)
 
-Dataset:
+Datasets:
 
 * [Natural Earth -> US National Parks and Protected Lands Maps Dataset](https://www.naturalearthdata.com/http//www.naturalearthdata.com/download/10m/cultural/ne_10m_parks_and_protected_lands.zip)
 * [NPS -> Annual Visitation and Record Year by Park](https://irma.nps.gov/Stats/SSRSReports/National%20Reports/Annual%20Visitation%20and%20Record%20Year%20by%20Park%20(1904%20-%20Last%20Calendar%20Year))
