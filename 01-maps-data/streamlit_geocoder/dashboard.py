@@ -5,7 +5,7 @@ from streamlit_folium import folium_static
 
 st.title('A Simple Geocoder')
 st.markdown('This app uses the [OpenRouteService API](https://openrouteservice.org/) '
-            'to geocode the input address and siplay the results on a map.')
+            'to geocode the input address and diplay the results on a map.')
 
 address = st.text_input('Enter an address.')
 

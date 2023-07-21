@@ -1,7 +1,20 @@
 # 🌍 Exploring Spacial Analysis Tools in Python
 
-Summary notes and outcome projects from diving into spacial analysis tools with a focus on GDAL, QGIS, and available Python 
-bindings.
+Summary notes and outcome projects from diving into spacial analysis tools with a focus on GDAL, QGIS, and 
+available Python bindings.
+
+---
+
+
+## 🛠️ Outcome Projects
+
+1) [NPS Trail Quality Analyzer](): based on mini-projects ->
+
+   * [Identifying Navigable Terrain in Satellite Maps]()
+   * [U.S. National Parks Visitor Data Timelapse]()
+
+
+2) [TRacer - Generate and Log MBTA World Record Routes]()
 
 ---
 
@@ -10,7 +23,9 @@ bindings.
 ### 1.  Manipulating Maps Data
 
 Learning Resources: 
-* [Mapping and Data Visualization Mini Course](https://courses.spatialthoughts.com/python-dataviz.html)
+* [Mapping and GeoData Visualization Mini Course](https://courses.spatialthoughts.com/python-dataviz.html)
+
+Reference Keywords: GeoPandas, NetCDF, GRIB, XArray, Cartopy, SRTM, Contextily
 
 ### 2. Working with pyGDAL
 
@@ -24,17 +39,11 @@ Learning Resources:
 
 ---
 
-## 🛠️ Outcome Projects
+## 📔 Templates
 
-[U.S. National Parks Visitor Data Timelapse]()
+### 1. GeoDjango Playground
 
-[Analysis of Music Festival Layout using Foot Traffic Data]()
-
-[Identifying Navigable Terrain in Satellite Maps]()
-
-[Log Your Hiked Trails In U.S. National Parks]()
-
----
+`/geodjango_demo`
 
 ## 💡 Other Resources
 
